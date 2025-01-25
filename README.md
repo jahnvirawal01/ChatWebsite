@@ -1,53 +1,13 @@
 
-# ChatWebsite  
+# ChatWebsite
 
-A real-time chat web application that allows users to communicate seamlessly.  
+A simple real-time chat application built with Node.js and Socket.io.
 
-## Features  
-- **Real-time Messaging** – Instant updates using WebSockets.  
-- **User Authentication** – Secure login and signup.  
-- **Responsive UI** – Works across devices.  
-- **Multiple Chat Rooms** – Join different discussions.  
+## Features
 
-## Tech Stack  
-- **Frontend** – HTML, CSS, JavaScript  
-- **Backend** – Node.js, Express.js  
-- **Database** – MongoDB (if applicable)  
-- **Real-time Communication** – Socket.io  
+- **Real-time Messaging**: Users can send and receive messages instantly.
+- **Basic User Interface**: A straightforward UI for sending and receiving messages.
 
-## Installation  
+## Tech Stack
 
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/jahnvirawal01/ChatWebsite.git
-   cd ChatWebsite
-   ```
-
-2. Install dependencies:  
-   ```sh
-   npm install
-   ```
-
-3. Start the server:  
-   ```sh
-   npm start
-   ```
-
-4. Open in browser:  
-   ```
-   http://localhost:3000
-   ```
-
-## Usage  
-- Create an account or log in.  
-- Join a chat room and start messaging in real-time.  
-
-## Contributing  
-Feel free to fork the repo and submit pull requests.  
-
-## License  
-This project is open-source under the [MIT License](LICENSE).  
-
----
-
-Let me know if you need modifications! 🚀
+- **Frontend**: HTML, CSS, JavaScript
